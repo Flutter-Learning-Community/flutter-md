@@ -25,12 +25,15 @@ For this Error
 
 * flutter pub add  < package name >.
 
-## Built APK 
+## Build APK 
 *  flutter build apk --debug.
+*  flutter build apk --release
 
-## Built IPA
+
+## Build IPA
 
 * flutter build ios --debug.
+* flutter build ios --release
 
 
 ## To run the app
